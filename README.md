@@ -25,6 +25,9 @@
   <a href="https://codeforces.com/profile/Shadow6526" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
+  <a href="https://codechef.com/profile/shadow_6526" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/CodeChef-1F8ACB?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
   <a href="mailto:maitreya.chauhan6526@gmail.com" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -51,13 +54,6 @@
 </p>
 
 ---
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shadow6526&show_icons=true&theme=dark" />
-</p>
-
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadow_6526&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
