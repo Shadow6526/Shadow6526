@@ -66,14 +66,14 @@
 
 ### 🚀 Codeforces
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=shadow_6526&theme=github&force_username=true" width="65%" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Shadow6526&theme=github&force_username=true" width="65%" />
 </p>
 
 ---
 
 ### 🧮 LeetCode
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/shadow_6526?theme=dark&font=JetBrains%20Mono&ext=contest&border=0" alt="LeetCode Card" />
+  <img src="https://leetcard.jacoblin.cool/Shadow6526?theme=dark&font=JetBrains%20Mono&ext=contest&border=0" alt="LeetCode Card" />
 </p>
 
 ---
