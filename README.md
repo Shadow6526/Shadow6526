@@ -1,94 +1,93 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hey there, I'm <a href="https://github.com/Shadow6526">Maitreya Chauhan</a>!</h1>
-<h3 align="center">🚀 Passionate Coder | 🌐 Cyber Security Enthusiast | 💻 Arch User Btw.....</h3>
+<h1 align="center">👋 Hey there, I'm <a href="https://github.com/shadow_6526">Maitreya Chauhan</a>!</h1>
+<h3 align="center">🚀 Passionate Coder | 🌐 Cybersecurity Enthusiast | 💻 Arch Linux User</h3>
 
 ---
 
 ### 👨‍💻 About Me
-- 👀 I’m interested in **Everything!!!**  
-- 🌱 I’m currently doing **Competitve Programing, DSA, ML** and Exploring.......  
-- 💞️ I’m looking to collaborate on **Open Source Projects and Web Development**  
-- 📫 Reach me via [**LinkedIn**](www.linkedin.com/in/maitreya-chauhan)  
-- 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: **I love thinking more than coding! 😆**
+- 👀 I’m curious about **everything** tech-related.  
+- 🌱 Currently focused on **Competitive Programming, DSA, and Machine Learning**.  
+- 💞️ Open to collaborating on **open-source projects** and web development.  
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/maitreya-chauhan).  
+- 😄 Pronouns: **He / Him**  
+- ⚡ Fun fact: **I enjoy thinking more than typing code.**
 
 ---
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="www.linkedin.com/in/maitreya-chauhan" target="_blank">
+  <a href="https://www.linkedin.com/in/maitreya-chauhan" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/u/Shadow6526/" target="_blank">
+  <a href="https://leetcode.com/shadow_6526/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="https://codeforces.com/profile/Shadow6526" target="_blank">
+  <a href="https://codeforces.com/profile/shadow_6526" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
-  <a href="mailto:maitreya.chauhan6526@gmail.com">
+  <a href="mailto:maitreya.chauhan6526@gmail.com" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Languages & Tools
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/mde/ejs-site@main/ejs.svg" width="40" height="40" alt="EJS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/mde/ejs-site@main/ejs.svg" width="36" height="36" alt="EJS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="36" height="36" alt="Express"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36" height="36" alt="Linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="36" height="36" alt="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="36" height="36" alt="TensorFlow"/>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theofficialsunil&show_icons=true&theme=tokyonight&hide_border=true&v=1" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=theofficialsunil&theme=tokyonight&hide_border=true&v=1" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shadow_6526&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=shadow_6526&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theofficialsunil&layout=compact&theme=tokyonight&hide_border=true&v=1" width="48%" />
-</p>
-
----
-
-### 🏆 Codeforces Stats
-<p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Shadow6526&theme=github&force_username=true" width="65%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadow_6526&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
-### 🧮 LeetCode Stats
+### 🚀 Codeforces
 <p align="center">
-   <img src="https://leetcard.jacoblin.cool/Shadow6526?theme=dark&font=JetBrains%20Mono&ext=contest&border=0" alt="LeetCode Heatmap" />
-   </p>
-
----
-### 🧠 CodeChef Stats
-<p align="center">
-<img src="https://cp-rating.vercel.app/codechef/shadow_6526" alt="LeetCode Heatmap" />
-
-
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=shadow_6526&theme=github&force_username=true" width="65%" />
 </p>
 
 ---
 
-### ✨ Quote of the Day
+### 🧮 LeetCode
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/shadow_6526?theme=dark&font=JetBrains%20Mono&ext=contest&border=0" alt="LeetCode Card" />
+</p>
+
+---
+
+### 🧠 CodeChef
+<p align="center">
+  <img src="https://cp-rating.vercel.app/codechef/shadow_6526" alt="CodeChef Rating" />
+</p>
+
+---
+
+### ✨ Quote
 > “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 
 ---
 
-⭐️ Shadow6526
+⭐️ shadow_6526
