@@ -64,11 +64,11 @@
 </p>
 
 ---
-
 ### 🚀 Codeforces
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Shadow6526&theme=github&force_username=true" width="65%" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Shadow6526&theme=github" width="65%" />
 </p>
+
 
 ---
 
