@@ -51,12 +51,12 @@
 </p>
 
 ---
+## 📊 GitHub Stats
 
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shadow6526&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Shadow6526&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shadow6526&show_icons=true&theme=dark" />
 </p>
+
 
 
 <p align="center">
@@ -64,10 +64,12 @@
 </p>
 
 ---
-### 🚀 Codeforces
+## 🚀 Codeforces
+
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Shadow6526&theme=github" width="65%" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Shadow6526" />
 </p>
+
 
 
 ---
@@ -78,10 +80,10 @@
 </p>
 
 ---
+## 🧠 CodeChef
 
-### 🧠 CodeChef
 <p align="center">
-  <img src="https://cp-rating.vercel.app/codechef/shadow_6526" alt="CodeChef Rating" />
+  <img src="https://img.shields.io/badge/CodeChef-shadow_6526-brown?style=for-the-badge&logo=codechef" />
 </p>
 
 ---
