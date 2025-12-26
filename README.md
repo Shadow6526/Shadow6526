@@ -73,7 +73,14 @@
 
 ### 🧮 LeetCode Stats
 <p align="center">
-   <img src="https://leetcard.jacoblin.cool/Shadow6526?ext=heatmap" alt="LeetCode Heatmap" />
+   <img src="https://leetcard.jacoblin.cool/Shadow6526?theme=dark&font=JetBrains%20Mono&ext=contest&border=0" alt="LeetCode Heatmap" />
+</p>
+
+---
+### 🧠 CodeChef Stats
+<p align="center">
+   <img src="https://img.shields.io/badge/CodeChef-shadow_6526-brown?logo=codechef
+" alt="Codechef Heatmap" />
 </p>
 
 ---
