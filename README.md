@@ -67,8 +67,10 @@
 ## 🚀 Codeforces
 
 <p align="center">
-  <img src="https://cf-stats.vercel.app/api?username=Shadow6526&theme=dark" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Shadow6526&theme=dark" width="150%" />
+
 </p>
+
 
 
 
