@@ -19,10 +19,10 @@
   <a href="https://www.linkedin.com/in/maitreya-chauhan" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/shadow_6526/" target="_blank" rel="noopener">
+  <a href="https://leetcode.com/Shadow6526/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="https://codeforces.com/profile/shadow_6526" target="_blank" rel="noopener">
+  <a href="https://codeforces.com/profile/Shadow6526" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
   <a href="mailto:maitreya.chauhan6526@gmail.com" target="_blank" rel="noopener">
@@ -67,7 +67,7 @@
 ## 🚀 Codeforces
 
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Shadow6526&theme=dark" width="150%" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Shadow6526&theme=dark" width="130%" />
 
 </p>
 
@@ -78,21 +78,25 @@
 
 ### 🧮 LeetCode
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Shadow6526?theme=dark&font=JetBrains%20Mono&ext=contest&border=0" alt="LeetCode Card" />
+  <img src="https://leetcard.jacoblin.cool/Shadow6526?theme=dark&font=JetBrains%20Mono&ext=contest&border=0" alt="LeetCode Card" width="130%"/>
 </p>
 
 ---
+
 ## 🧠 CodeChef
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CodeChef-shadow_6526-brown?style=for-the-badge&logo=codechef" />
+  <img src="https://img.shields.io/badge/CodeChef-shadow_6526-brown?style=for-the-badge&logo=codechef&logoColor=white" />
+  <br/>
+  <b>Rating:</b> 1403
 </p>
+
 
 ---
 
 ### ✨ Quote
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+> “You will be ran over by a truck some Day <3.” — Cory House
 
 ---
 
-⭐️ shadow_6526
+⭐️ Shadow6526
