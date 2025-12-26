@@ -25,8 +25,8 @@
   <a href="https://codeforces.com/profile/Shadow6526" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
-  <a href="https://codechef.com/profile/shadow_6526" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/CodeChef-1F8ACB?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  <a href="https://codechef.com/users/shadow_6526" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/CodeChef-FFA116?style=for-the-badge&logo=codechef&logoColor=grey" alt="CodeChef"/>
   </a>
   <a href="mailto:maitreya.chauhan6526@gmail.com" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
