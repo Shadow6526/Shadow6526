@@ -79,8 +79,9 @@
 ---
 ### 🧠 CodeChef Stats
 <p align="center">
-   <img src="https://img.shields.io/badge/CodeChef-shadow_6526-brown?logo=codechef
-" alt="Codechef Heatmap" />
+
+![CodeChef](https://cp-rating.vercel.app/codechef/shadow_6526)
+
 </p>
 
 ---
@@ -90,4 +91,4 @@
 
 ---
 
-⭐️ *From [@theofficialsunil](https://github.com/theofficialsunil)*
+⭐️ Shadow6526
